@@ -98,9 +98,6 @@ public class TouchscreenTesterActivity extends Activity {
     private Handler mHandler = new Handler() {
         @Override public void handleMessage(Message msg) {
             switch (msg.what) {
-                // Upon receiving the fade pulse, we have the view perform a
-                // fade and then enqueue a new message to pulse at the desired
-                // next time.
                 default:
                     super.handleMessage(msg);
             }
