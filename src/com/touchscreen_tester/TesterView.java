@@ -8,7 +8,8 @@ package com.touchscreen_tester;
  *      o Circles showing major axis size
  *      o replace Fade with save points to cursor.csv 
  * R Kakarala: Started 21 July 2011
- */
+ * Started using GitHub on 31 July 2011
+*/
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
